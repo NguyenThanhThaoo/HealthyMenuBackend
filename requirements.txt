@@ -1,0 +1,14 @@
+filterpy==1.4.5
+Flask==3.0.3
+Flask_Cors==4.0.0
+Flask_JWT_Extended==4.6.0
+Flask_MySQLdb==2.0.0
+lapx==0.5.5
+moviepy==1.0.3
+numpy==1.26.1
+opencv_python==4.8.1.78
+opencv_python_headless==4.8.0.74
+python-dotenv==1.0.1
+scipy==1.14.1
+ultralytics==8.0.225
+Werkzeug==3.0.4
